@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 250px;
+    font-size: 50px;
+}
+.btn{
+    background-color:transparent;
+    color: black;
+    
+}
